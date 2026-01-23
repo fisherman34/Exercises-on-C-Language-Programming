@@ -1,1 +1,1 @@
-Examples of C Language Programming
+Simple Exercises of C Language Programming
