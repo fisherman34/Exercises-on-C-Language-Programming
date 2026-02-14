@@ -23,6 +23,8 @@ int main()
   Final Output: a = F000
   */
   *pc = 0;
-  printf("a = %X", a);
+  printf("a = %X \n", a);
+  printf("%X \n", pi);
+  printf("%X \n", pc);
   return 0;
 }
